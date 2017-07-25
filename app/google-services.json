@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534722150088",
+    "firebase_url": "https://skaneet.firebaseio.com",
+    "project_id": "skaneet",
+    "storage_bucket": "skaneet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534722150088:android:c44a7a6d93f776c6",
+        "android_client_info": {
+          "package_name": "nz.co.alan.floatingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534722150088-4brseitdpoea5ta9du4vekuj2voqshd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nz.co.alan.floatingapplication",
+            "certificate_hash": "f97e9cc1160eadd6da2217b058c744d23c7796b3"
+          }
+        },
+        {
+          "client_id": "534722150088-0re4q9fcv2rr00hoj6au7n6jmcq6172q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfhAI7raDKRLbcsHBQSQi90GCxV46cTkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534722150088-0re4q9fcv2rr00hoj6au7n6jmcq6172q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
